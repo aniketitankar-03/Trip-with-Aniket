@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Trip-with-Aniket/static/css/main.37a20bbb.css",
+    "main.js": "/Trip-with-Aniket/static/js/main.fd5fb286.js",
+    "index.html": "/Trip-with-Aniket/index.html",
+    "main.37a20bbb.css.map": "/Trip-with-Aniket/static/css/main.37a20bbb.css.map",
+    "main.fd5fb286.js.map": "/Trip-with-Aniket/static/js/main.fd5fb286.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37a20bbb.css",
+    "static/js/main.fd5fb286.js"
+  ]
+}
